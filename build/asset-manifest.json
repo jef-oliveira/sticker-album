@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sticker-album/static/css/main.56b47c40.chunk.css",
+    "main.js": "/sticker-album/static/js/main.c14ff971.chunk.js",
+    "main.js.map": "/sticker-album/static/js/main.c14ff971.chunk.js.map",
+    "runtime-main.js": "/sticker-album/static/js/runtime-main.10200e49.js",
+    "runtime-main.js.map": "/sticker-album/static/js/runtime-main.10200e49.js.map",
+    "static/js/2.efb15378.chunk.js": "/sticker-album/static/js/2.efb15378.chunk.js",
+    "static/js/2.efb15378.chunk.js.map": "/sticker-album/static/js/2.efb15378.chunk.js.map",
+    "index.html": "/sticker-album/index.html",
+    "precache-manifest.4f1e6dc81b0f618497ff19d023ba5b8a.js": "/sticker-album/precache-manifest.4f1e6dc81b0f618497ff19d023ba5b8a.js",
+    "service-worker.js": "/sticker-album/service-worker.js",
+    "static/css/main.56b47c40.chunk.css.map": "/sticker-album/static/css/main.56b47c40.chunk.css.map",
+    "static/js/2.efb15378.chunk.js.LICENSE.txt": "/sticker-album/static/js/2.efb15378.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sticker-album/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10200e49.js",
+    "static/js/2.efb15378.chunk.js",
+    "static/css/main.56b47c40.chunk.css",
+    "static/js/main.c14ff971.chunk.js"
+  ]
+}
